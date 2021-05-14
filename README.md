@@ -1,1 +1,1 @@
-# ResNet50
+# ResNet50 implementation for image classification
